@@ -1,6 +1,3 @@
-nazwa,kategoria,cena,stan_magazynowy
-Laptop Dell XPS,Laptop,4500.00,10
-iPhone 15,Telefon,5500.00,25
-Samsung Galaxy Tab,Tablet,2200.00,15
-Słuchawki Sony,Audio,500.00,100
-Ładowarka USB-C,Akcesoria,80.00,200
+Laptop Dell,Laptop,4500,10,1
+iPhone 15,Telefon,5500,20,1
+Monitor LG,Akcesoria,1200,5,2
